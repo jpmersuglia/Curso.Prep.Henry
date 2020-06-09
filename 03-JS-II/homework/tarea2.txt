@@ -1,0 +1,9 @@
+El bucle for toma 3 parametros y se continua ejecutando hasta que alcanza un criterio definido.
+El primer parametro que toma es el valor inicial
+El segundo parametro es hasta cuando se va a ejecutar el bucle
+Y el tercer parametro que acción ejecutar mientras que el bucle se ejecuta.
+Esto hace que el bucle se ejecute x cantidad de veces permitiendo realizar una tarea mientras este en ejecución.
+
+El comparador &&, compara los valores de x y z. Para que este devuelva verdadero ambos valores tienen que ser cierto.
+El comparador ||, pregunta si el valor de x y z es verdadero, si alguna de estas opciones es verdadera, entonces el comparador sera verdadero también.
+El comparador !, verificar que el valor de x y z sea distintos, si lo son este comprador retorna verdadero.
