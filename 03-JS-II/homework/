@@ -1,0 +1,7 @@
+Un bucle for es una acción que se repite x cantidad de veces hasta que un parametro es cierto. Necesitamos definir 3 partes en el bucle, la primera es la inicial, donde declaramos donde va a empezar, la segunda es que criterio necesita para detenerse, y la tercera es que acción ejecutar mientras que la segunda opcion no se cumpla.
+
+Los comparadores Y (&&) comparan que el valor de x y z sean verdaderos o (falsos), para que esta opción devuelva verdadero, ambas opciones tienen que ser verdaderas.
+
+El comparador O (||) compara que el valor de x O z sea verdadero o (falso), para que esta opción devuelva verdadero, uno de los valores necesita ser verdadero.
+
+El comparador No (!) compara que el valor de x y z no sean iguales, para que esta opción devuelva verdadero, los valores tienen que ser distintos. 

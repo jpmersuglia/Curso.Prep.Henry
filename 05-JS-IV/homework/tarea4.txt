@@ -1,0 +1,5 @@
+Basicamente todo en Javascript es un objeto, desde un array, hasta windows se considera un objeto, con la diferencia que cada uno de ellos tiene sus propias propiedades y métodos.
+Un objeto se asocia con pares de clave:valor donde clave es unica del objeto y los valores pueden contener cualquier propiedad de Javascript, desde Strings, arrays hasta otros objetos.
+Los métodos de un objeto son funciones y accedemos a ellos mediate un punto.
+Los bucles for..in es otro bucle for pero se utiliza para moverse entre las claves:valor de un objeto.
+La notación de punto es la más fácil de acceder y usar, y es la que probablemente se use más, con algunas exepciones, ya que la notación de corchetes tiene usos más avanzados y podemos realizar más tareas.
